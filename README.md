@@ -7,12 +7,12 @@
 
 ---
 <small>
-🎓 I’m currently studying Systems Engineering at Popular University of Cesar  
-🌱 Learning Cloud Technologies and expanding my full-stack skills  
-⚡ Passionate about building efficient, scalable backend services and clean code  
+🎓 I’m currently studying Systems Engineering at Popular University of Cesar <br>
+🌱 Learning Cloud Technologies and expanding my full-stack skills <br>
+⚡ Passionate about building efficient, scalable backend services and clean code <br><br>
 
-🎓 Actualmente estudio Ingeniería de Sistemas en la Universidad Popular del Cesar  
-🌱 Aprendiendo tecnologías en la nube y ampliando mis habilidades full-stack ⚡  
+🎓 Actualmente estudio Ingeniería de Sistemas en la Universidad Popular del Cesar <br>
+🌱 Aprendiendo tecnologías en la nube y ampliando mis habilidades full-stack ⚡ <br>
 Apasionado por construir servicios backend eficientes y escalables, y código limpio
 </small>
 
