@@ -2,7 +2,7 @@
 <h3 align="center">💻 Systems Engineer Student | Backend Developer | Java | Spring Boot | Angular | Node.js</h3>
 
 <p align="center">
-  <img src="https://github.com/jovannis/jovannis/blob/main/16b4cbfe-2402-4bc6-b1ab-ae6e0663780b.png" alt="header" />
+  <img src="https://github.com/jovannis/jovannis/blob/main/caa7c04d-7871-4fd3-b85f-a5c56e90dbc8.png" alt="header" />
 </p>
 
 ---
