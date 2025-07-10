@@ -38,3 +38,11 @@ const aboutMe = {
   server: "Developed and deployed local server environments",
   softSkills: ["Teamwork", "Adaptability", "Continuous Learning"]
 }
+
+const learning = [
+  "Microservices architecture",
+  "Docker & Kubernetes",
+  "AWS (EC2, S3, RDS)",
+  "Testing with Jest & JUnit"
+]
+
